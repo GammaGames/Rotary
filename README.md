@@ -9,8 +9,6 @@ The wheel is layed out in four layers:
 3. Arithmetic: + - * / %
 4. I/O: Read integer, read character, print integer, print character
 
-Translated into a rotary dial, it might look like so:
-
 ## Example
 
 A simple program that takes two numbers, adds them, and displays the result, would look like so:
