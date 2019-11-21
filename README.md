@@ -1,6 +1,6 @@
 # Rotary
 
-Rotary is a programming language inspired by the rotary phone dial. Each command is placed into a several-deep rotary wheel. On each line of the program, the wheel is placed back at the initial spot. The `>` character moves the wheel to the right, `^` is used to move up a layer, a `.` is used to move the current wheel back to the left while traversing a row, or to move the wheel to its starting position wheel layer if currently in the first location of a row. Each value is read and stored as an integer, and characters are printed according to their unicode value.
+Rotary is an esoteric programming language inspired by the rotary phone dial. Each command is placed into a several-deep rotary wheel. On each line of the program, the wheel is placed back at the initial spot. The `>` character moves the wheel to the right, `^` is used to move up a layer, a `.` is used to move the current wheel back to the left while traversing a row, or to move the wheel to its starting position wheel layer if currently in the first location of a row. Each value is read and stored as an integer, and characters are printed according to their unicode value.
 
 The wheel is layed out in four layers:
 
